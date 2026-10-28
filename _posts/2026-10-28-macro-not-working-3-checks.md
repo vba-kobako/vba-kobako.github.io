@@ -6,8 +6,8 @@ tags: [Excel, VBA, マクロ, トラブル]
 ---
 「マクロが動かない」ときの原因は、多くがこの3つのどれかです。上から順に確かめてみてください。
 
-![上から順に確かめる]({{ '/assets/img/trouble-check.png' | relative_url }})
-<small>※画面のイメージです</small>
+![動かないときのチェックの全体（6つ）]({{ '/assets/img/trouble-check.png' | relative_url }})
+<small>※チェックの全体（6つ）のイメージです。この記事では、その中でも多い3つ（①・②・⑤）を説明します。</small>
 
 ## 1. ファイルが .xlsm になっているか
 

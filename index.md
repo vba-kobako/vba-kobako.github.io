@@ -1,6 +1,7 @@
 ---
 layout: home
 title: VBA の小箱
+list_title: 記事
 ---
 <img src="{{ '/assets/img/icon.png' | relative_url }}" alt="VBA の小箱" width="96" style="float:right;margin:0 0 8px 12px;border-radius:50%">
 
