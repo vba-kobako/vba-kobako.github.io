@@ -1,0 +1,19 @@
+# VBA の小箱のブログ（GitHub Pages で無料公開。2026-10-28 社長「ウェブサイトでも可能ならブログの様なもので広めたい」「無料でできることなら進めたい」）
+# 検索から来た人に Excel VBA の小ワザ・基礎を届け、くわしい手順と見本ファイルは note に案内する
+title: VBA の小箱
+description: 毎日の Excel 作業を、ボタン1つで終わらせる VBA（マクロ）の小ワザと基礎。くわしい手順と見本ファイルは note で。
+lang: ja
+theme: minima
+url: "https://vba-kobako.github.io"
+baseurl: ""
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+minima:
+  social_links:
+    - { platform: rss, user_url: "/feed.xml" }
+header_pages:
+  - about.md
+note_url: "https://note.com/lt_works"
