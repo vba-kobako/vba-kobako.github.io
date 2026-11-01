@@ -16,4 +16,4 @@ minima:
     - { platform: rss, user_url: "/feed.xml" }
 header_pages:
   - about.md
-note_url: "https://note.com/lt_works"
+note_url: "https://note.com/gyomu_toolbox"

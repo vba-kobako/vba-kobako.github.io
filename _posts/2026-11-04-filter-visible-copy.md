@@ -41,7 +41,7 @@ Mac の手順は、ここでは載せていません。
 
 画面つきのくわしい手順は、note の「業務効率化Toolbox」にまとめています。マクロをはじめて使う方向けの基礎シリーズも、同じ場所にあります。
 
-- [業務効率化Toolbox（note）](https://note.com/lt_works)
+- [業務効率化Toolbox（note）](https://note.com/gyomu_toolbox)
 
 「こんな作業をマクロにしたい」があれば、note の記事のコメントで気軽に教えてください。次の記事のテーマにします。
 
