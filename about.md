@@ -3,7 +3,7 @@ layout: page
 title: このサイトについて
 permalink: /about/
 ---
-「VBA の小箱」は、Excel の小ワザ・VBA（マクロ）と、仕事で使える AI（ChatGPT・Claude・Copilot）の使い方を、はじめての方にもわかるように書いているサイトです。
+「業務効率化Toolbox」（業務効率化ツールボックス。2026年11月に「VBA の小箱」から名前を変えました）は、Excel の小ワザ・VBA（マクロ）と、仕事で使える AI（ChatGPT・Claude・Copilot）の使い方を、はじめての方にもわかるように書いているサイトです。
 
 - このサイト：短い小ワザと基礎（無料）
 - note（[https://note.com/lt_works](https://note.com/lt_works)）：くわしい手順の基礎シリーズ（無料）と、コピペで使えるコード・見本ファイルつきの活用例（有料）
